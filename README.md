@@ -71,7 +71,7 @@ public class Portfolio {
 
         // Adding projects to the portfolio
         Project project1 = new Project("Project Management Tool", "A web-based tool for project management.", "https://github.com/neha/project-management-tool");
-        Project project2 = new Project("Personal Portfolio", "A personal website to showcase my portfolio.", "https://github.com/johndoe/personal-portfolio");
+        Project project2 = new Project("Personal Portfolio", "A personal website to showcase my portfolio.", "https://github.com/nehakumari/personal-portfolio");
 
         myPortfolio.addProject(project1);
         myPortfolio.addProject(project2);
