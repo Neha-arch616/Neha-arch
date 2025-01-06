@@ -107,7 +107,7 @@ class Project {
 
 //  SAMPLE OUTPUT
 
-Portfolio of John Doe
+Portfolio of Neha kumari
 -------------------------------
 Contact Information:
 Email: nnehasingh022@gmail.com
